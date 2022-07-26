@@ -48,7 +48,7 @@
   height: 356px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("images/cars-decorative.png");
+  background-image: url("../images/cars-decorative.png");
 }
 @media (max-width: 685px) {
   .customize__list::after {
@@ -430,35 +430,35 @@
   font-family: "GowunDodum";
   font-style: normal;
   font-weight: 400;
-  src: url("fonts/GowunDodum-Regular.woff2") format("woff2");
+  src: url("../fonts/GowunDodum-Regular.woff2") format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: "Fahkwang";
   font-style: normal;
   font-weight: 300;
-  src: url("fonts/Fahkwang-Light.woff2") format("woff2");
+  src: url("../fonts/Fahkwang-Light.woff2") format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  src: url("fonts/Inter-Regular.woff2") format("woff2");
+  src: url("../fonts/Inter-Regular.woff2") format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
-  src: url("fonts/Inter-Medium.woff2") format("woff2");
+  src: url("../fonts/Inter-Medium.woff2") format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
-  src: url("fonts/Inter-SemiBold.woff2") format("woff2");
+  src: url("../fonts/Inter-SemiBold.woff2") format("woff2");
   font-display: swap;
 }
 .footer {
@@ -503,7 +503,7 @@
   background-color: #000;
   background-position: center 60%;
   background-repeat: no-repeat;
-  background-image: url("images/intro-background.png");
+  background-image: url("../images/intro-background.png");
 }
 @media (max-width: 1300px) {
   .intro {
